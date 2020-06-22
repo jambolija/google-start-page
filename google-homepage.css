@@ -85,6 +85,11 @@ border-left: 1px solid#c7c6c6;
   font-family: Arial,  sans-serif;
 
 }
+.gsearch:hover, .luck:hover{
+    box-shadow: 0px 1px 1px rgba( 0, 0, 0, 0.1);
+    background-color: #f8f8f8;
+    border: 1px solid #c6c6c6;
+}
 #languages{
     font-family: Arial, sans-serif;
     font-size: 13px;
